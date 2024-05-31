@@ -16,3 +16,11 @@ To develop a comprehensive monthly report that provides real-time insights into 
 -- Designing the visuals.
 
 **Observations**
+
+-- The Variance% is frequently low over the period of time.
+
+-- March 2023 and July 2023 are the only two months in which the given target was achieved.
+
+-- Team Delish has the highest sales recorded.
+
+-- Team Yummies has the best Variance% among the rest.
