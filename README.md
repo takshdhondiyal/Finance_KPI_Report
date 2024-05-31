@@ -3,7 +3,7 @@ Analysis of a sales data
 
 **Objective**
 
-To develop a comprehensive monthly report that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze sales. operations effectively.
+To develop a comprehensive monthly report that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyse sales operations effectively.
 
 **Steps Involved**
 
